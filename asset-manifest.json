@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/amira7/my-Q-A-application/static/css/main.47a1063c.chunk.css",
-    "main.js": "/amira7/my-Q-A-application/static/js/main.b0e345c1.chunk.js",
-    "main.js.map": "/amira7/my-Q-A-application/static/js/main.b0e345c1.chunk.js.map",
-    "runtime~main.js": "/amira7/my-Q-A-application/static/js/runtime~main.1ef57c34.js",
-    "runtime~main.js.map": "/amira7/my-Q-A-application/static/js/runtime~main.1ef57c34.js.map",
-    "static/js/2.2c9a6bc0.chunk.js": "/amira7/my-Q-A-application/static/js/2.2c9a6bc0.chunk.js",
-    "static/js/2.2c9a6bc0.chunk.js.map": "/amira7/my-Q-A-application/static/js/2.2c9a6bc0.chunk.js.map",
-    "index.html": "/amira7/my-Q-A-application/index.html",
-    "precache-manifest.fed8b1e35bb822d480547411cb5c14c5.js": "/amira7/my-Q-A-application/precache-manifest.fed8b1e35bb822d480547411cb5c14c5.js",
-    "service-worker.js": "/amira7/my-Q-A-application/service-worker.js",
-    "static/css/main.47a1063c.chunk.css.map": "/amira7/my-Q-A-application/static/css/main.47a1063c.chunk.css.map"
+    "main.css": "/my-Q-A-application/static/css/main.47a1063c.chunk.css",
+    "main.js": "/my-Q-A-application/static/js/main.975e9115.chunk.js",
+    "main.js.map": "/my-Q-A-application/static/js/main.975e9115.chunk.js.map",
+    "runtime~main.js": "/my-Q-A-application/static/js/runtime~main.6d1c9af6.js",
+    "runtime~main.js.map": "/my-Q-A-application/static/js/runtime~main.6d1c9af6.js.map",
+    "static/js/2.2c9a6bc0.chunk.js": "/my-Q-A-application/static/js/2.2c9a6bc0.chunk.js",
+    "static/js/2.2c9a6bc0.chunk.js.map": "/my-Q-A-application/static/js/2.2c9a6bc0.chunk.js.map",
+    "index.html": "/my-Q-A-application/index.html",
+    "precache-manifest.9fc1e51b2213ce229d0f9aa94ccb38b8.js": "/my-Q-A-application/precache-manifest.9fc1e51b2213ce229d0f9aa94ccb38b8.js",
+    "service-worker.js": "/my-Q-A-application/service-worker.js",
+    "static/css/main.47a1063c.chunk.css.map": "/my-Q-A-application/static/css/main.47a1063c.chunk.css.map"
   }
 }
